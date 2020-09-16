@@ -17,7 +17,7 @@ pip install twilio
 goto Twilio website, and create a free account, you will be provided
 free TRIAL_NUM and ACCOUNT_SID and AUTH_TOKEN, you need to enter manually you phone number in credentials.txt - ALERT_NUM, similarly replace others too.
 
-#### Running 
+#### Running this system
 
 ```bash
 python intruder_detection_system.py
